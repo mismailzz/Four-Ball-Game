@@ -1,0 +1,19 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.startReset button{
+    margin-top: 10px;
+    width: 100px;
+    background-color: transparent;
+    cursor: pointer;
+    border: black solid 2px;
+}
+.board button{
+    background-color: rgb(128, 128, 128);
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 4px solid black;
+    margin: 2px;
+}
